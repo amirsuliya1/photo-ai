@@ -1,0 +1,5 @@
+{
+  "name": "Photo AI Studio",
+  "description": "An AI-powered web application that professionally blends product photos into model photoshoots based on user prompts and style presets, creating high-quality, realistic images for e-commerce, social media, and more.",
+  "requestFramePermissions": []
+}
